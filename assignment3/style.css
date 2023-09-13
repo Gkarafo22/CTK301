@@ -1,0 +1,63 @@
+body {
+    max-width: 1024px;
+
+}
+
+p {
+    color: darkslategray;
+
+}
+
+
+header {
+    color: white;
+    background-color: rgb(0, 0, 0);
+    margin-bottom: 1em;
+    padding: 1em;
+}
+
+h2 {
+    color: white;
+    background-color: #e51937;
+    padding: 1em;
+}
+
+
+
+.image {
+    text-align: center;
+
+}
+
+.creative {
+    text-decoration: #e51937 wavy underline;
+
+}
+
+a {
+    color: #ff0000;
+}
+
+a:link {
+    color: #ff0000;
+}
+
+a:visited {
+    color: green;
+}
+
+a:active {
+    color: #00ffff;
+}
+
+a:hover {
+    color: #ffff00;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
