@@ -1,0 +1,68 @@
+header{
+    background-color: rgb(166, 166, 244);
+}
+footer{
+    background-color: yellow;
+}
+
+h1{
+    color:white;
+}
+
+h2{
+    color:rgb(0, 0, 255);
+}
+h3{
+    color:rgb(0, 0, 0);
+    background-color: yellow;
+}
+h4{
+    color:rgb(247, 243, 20);
+    background-color: green;
+}
+h5{
+    color:rgb(255, 0, 0);
+}
+
+#taxi{
+    color: red;
+}
+
+#doctor{
+    color: rgb(255, 221, 0);
+}
+#art{
+    background-color: rgb(74, 241, 141);
+}
+
+#him{
+    color: blue;
+}
+
+
+
+
+a {
+    color: #1bf451;
+}
+
+a:link {
+    color: #04ca3c;
+}
+
+
+a:active {
+    color: #00ffff;
+}
+
+a:hover {
+    color: #fa0000;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
