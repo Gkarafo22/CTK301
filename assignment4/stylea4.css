@@ -1,0 +1,105 @@
+main{
+    text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1024px;
+
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategray;
+
+}
+
+
+header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    margin-bottom: 1em;
+    padding: 1em;
+    background-image: url(bird.png);
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 136, 0);
+    background-color: #e51937;
+    padding: 1em;
+    font-style: italic;
+    font-weight: normal; 
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 136, 0);
+    background-color: #e51937;
+    padding: 1em;
+    font-style: italic;
+    font-weight: normal;
+
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 136, 0);
+    background-color: #e51937;
+    padding: 1em;
+    font-style: italic;
+    font-weight: normal;
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 136, 0);
+    font-style: italic;
+    font-weight: normal;
+}
+
+
+.image {
+    text-align: center;
+    border: 10px solid #000000;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+    background-color: #fbff00;
+
+}
+#CTK {
+    text-align: justify;
+}
+
+.creative {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: #e51937 wavy underline;
+
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ff0000;
+}
+
+a:link {
+    color: #ff0000;
+}
+
+a:visited {
+    color: green;
+}
+
+a:active {
+    color: #00ffff;
+}
+
+a:hover {
+    color: #ffff00;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
