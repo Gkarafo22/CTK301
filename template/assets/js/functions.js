@@ -101,6 +101,7 @@ $( document ).ready(function() {
         updateContent(curPos, nextPos, lastItem);
       }
     }
+
     else if (param.type === "swipedown" || param.keyCode === 38 || param < 0){
       if (curPos !== 0){
         nextPos = curPos - 1;
